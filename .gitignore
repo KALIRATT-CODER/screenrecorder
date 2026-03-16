@@ -5,3 +5,4 @@ pyinstaller/
 dist/
 build/
 *.spec
+received/

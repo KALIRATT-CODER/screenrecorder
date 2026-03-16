@@ -1,3 +1,7 @@
 recordings/
 __pycache__/
 *.pyc
+pyinstaller/
+dist/
+build/
+*.spec
